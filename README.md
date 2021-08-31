@@ -13,3 +13,11 @@ Prim's algorithm is used to generate random maze, and A* algorithm is used for e
 
 ![image](https://user-images.githubusercontent.com/67942037/131429705-4a4239f9-a5f5-47fb-8e10-f39e7ae05c18.png)
 
+
+### In game screenshot
+
+![image](https://user-images.githubusercontent.com/67942037/131429831-7cf42548-ae55-4537-afdb-9aa2c2262642.png)
+
+### Enemy AI
+
+![image](https://user-images.githubusercontent.com/67942037/131429894-ad38d721-01a7-409f-9349-ed5e39fe5fe0.png)
